@@ -6,7 +6,10 @@ namespace Aula01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int  NumDeVezes = 5;
+            for (int i=0; i<NumDeVezes; i++){
+                Console.WriteLine($"Bem-vindo ao curso de .NET {i}");
+            }
         }
     }
 }

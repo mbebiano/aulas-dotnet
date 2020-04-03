@@ -1,0 +1,13 @@
+C:\Users\matth\Documents\aula-dotnet\Aula01\bin\Debug\netcoreapp3.1\Aula01.exe
+C:\Users\matth\Documents\aula-dotnet\Aula01\bin\Debug\netcoreapp3.1\Aula01.deps.json
+C:\Users\matth\Documents\aula-dotnet\Aula01\bin\Debug\netcoreapp3.1\Aula01.runtimeconfig.json
+C:\Users\matth\Documents\aula-dotnet\Aula01\bin\Debug\netcoreapp3.1\Aula01.runtimeconfig.dev.json
+C:\Users\matth\Documents\aula-dotnet\Aula01\bin\Debug\netcoreapp3.1\Aula01.dll
+C:\Users\matth\Documents\aula-dotnet\Aula01\bin\Debug\netcoreapp3.1\Aula01.pdb
+C:\Users\matth\Documents\aula-dotnet\Aula01\obj\Debug\netcoreapp3.1\Aula01.csprojAssemblyReference.cache
+C:\Users\matth\Documents\aula-dotnet\Aula01\obj\Debug\netcoreapp3.1\Aula01.csproj.CoreCompileInputs.cache
+C:\Users\matth\Documents\aula-dotnet\Aula01\obj\Debug\netcoreapp3.1\Aula01.AssemblyInfoInputs.cache
+C:\Users\matth\Documents\aula-dotnet\Aula01\obj\Debug\netcoreapp3.1\Aula01.AssemblyInfo.cs
+C:\Users\matth\Documents\aula-dotnet\Aula01\obj\Debug\netcoreapp3.1\Aula01.dll
+C:\Users\matth\Documents\aula-dotnet\Aula01\obj\Debug\netcoreapp3.1\Aula01.pdb
+C:\Users\matth\Documents\aula-dotnet\Aula01\obj\Debug\netcoreapp3.1\Aula01.genruntimeconfig.cache
